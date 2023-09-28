@@ -19,8 +19,8 @@
 - 💬 Ask me about **Javascript, HTML, React**
 - 📫 How to reach me: *keetha508@gmail.com*
 - 🫡 Published projects: *www.quirkyhamstersnft.com*
-</p>
-<p>
+  <br></br>
+  <p>
 Hi folks! My name is **Bella** I'm a 16 years old coder, and here it goes a quick text about my background: 
 <br></br>
 I read my first line of code at 13 but I recently started coding full-time, about **1year and a half** ago. I've worked with **javascript, python, css, c#, pinescript, and now solidity and react**. I started with front-end development and then put it together with back-end too. As time passed I also wanted to try game development and 3d modelling, but it wasn't really my thing even tho I enjoyed that phase a lot. After that, I started to get interested in AIs, and did an small competition on Kaggle, but just after finishing it, I found a great opportunity with my dad to experiment with Algorithmic trading. There, I coded some tradingBots, newsWeb, and indicators, for about 3 months or so. And there's when my dad told me he heard about DeFis and that maybe I should move there and carry my coding to another level. So, after reading about all the opportunities that blockchain gives, the new era that it can bring, all the jobs that were there, the tons of content available and the beautiful community around it, I decided to start this new path.  
