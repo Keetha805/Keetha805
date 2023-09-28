@@ -22,9 +22,7 @@
   <br></br>
   <p>
 Hi folks! My name is **Bella** I'm a 16 years old coder, and here it goes a quick text about my background: 
-<br></br>
 I read my first line of code at 13 but I recently started coding full-time, about **1year and a half** ago. I've worked with **javascript, python, css, c#, pinescript, and now solidity and react**. I started with front-end development and then put it together with back-end too. As time passed I also wanted to try game development and 3d modelling, but it wasn't really my thing even tho I enjoyed that phase a lot. After that, I started to get interested in AIs, and did an small competition on Kaggle, but just after finishing it, I found a great opportunity with my dad to experiment with Algorithmic trading. There, I coded some tradingBots, newsWeb, and indicators, for about 3 months or so. And there's when my dad told me he heard about DeFis and that maybe I should move there and carry my coding to another level. So, after reading about all the opportunities that blockchain gives, the new era that it can bring, all the jobs that were there, the tons of content available and the beautiful community around it, I decided to start this new path.  
-<br></br>
 There is **4 months** now that im working on web3 and definitvely looking forward to that! I have watched a ton of hours on courses **(32h solidity+js, 16h solidity+python, SpeedRunETH, CrytoZombies, plus other resources)** and making **all the exercises** on them! I've been able to make a couple of projects such as my own NFT Project(www.quirkyhamsters.com) and a simple crypto wallet too(not public but u can find it in my respositories)! Im just willing to learn more and more, and being able to be part of this new technological revolution, meeting great people and learning valuable knowledge in the way. And i would be grateful to being able to collaborate in projects, hackathons, and many other event with the community! 
 <br></br>
 Thanks for reading!
