@@ -27,7 +27,7 @@ Hi folks! My name is **Bella**, I'm a 16 years old coder, I've read my first lin
 <a href="https://twitter.com/keetha805" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="keetha805" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/keetha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="keetha" height="30" width="40" /></a>
 <a href="https://kaggle.com/bellamf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="bellamf" height="30" width="40" /></a>
-<a href="https://discord.gg/3757" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="3757" height="30" width="40" /></a>
+<a href="https://discord.gg/#3757" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="3757" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
