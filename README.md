@@ -18,7 +18,8 @@
 - 🫡 Published projects: *www.quirkyhamstersnft.com*
   <br></br>
   
-Hi folks! My name is **Bella** I'm a 17 years old coder, and here it goes a quick text about my background:
+Hi folks! My name is **Bella** and here it goes a quick text about my background:
+
 As a 17-year-old coder, I embarked on my coding journey by exploring my first line of code at the age of 13. Transitioning to full-time coding just over a year and a half ago, I've gained proficiency in a variety of programming languages, including JavaScript, Python, CSS, C#, Pinescript, Solidity, and React.
 
 My coding endeavors began with front-end development, and I seamlessly integrated back-end development into my skill set. While experimenting with game development and 3D modeling, I discovered a keen interest in artificial intelligence, participating in a Kaggle competition to further my skills. Subsequently, I delved into Algorithmic trading, developing trading bots, news web applications, and indicators over a three-month period.
