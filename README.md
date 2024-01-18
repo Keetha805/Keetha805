@@ -23,7 +23,7 @@ As a 17-year-old coder, I embarked on my coding journey by exploring my first li
 
 My coding endeavors began with front-end development, and I seamlessly integrated back-end development into my skill set. While experimenting with game development and 3D modeling, I discovered a keen interest in artificial intelligence, participating in a Kaggle competition to further my skills. Subsequently, I delved into Algorithmic trading, developing trading bots, news web applications, and indicators over a three-month period.
 
-In the past five months, I have immersed myself in web3 technologies, completing extensive coursework, including 32 hours on Solidity with Hardhat, 16 hours with Brownie, and 26 hours with Foundry SpeedRunETH, among other resources. My practical application of knowledge includes the creation of projects like my NFT venture (quirkyhamsters.com) and a crypto wallet.
+In the past five months, I have immersed myself in web3 technologies, completing extensive coursework, including 32 hours on Solidity with Hardhat, 16 hours with Brownie, and 26 hours with Foundry, SpeedRunETH, among other resources. My practical application of knowledge includes the creation of projects like my NFT venture (quirkyhamsters.com) and a crypto wallet.
 
 Eager to contribute to the ongoing technological revolution, I am committed to continuous learning and look forward to collaborating with like-minded individuals. My passion for teamwork and skill-sharing extends to a keen interest in participating in projects, hackathons, and community events, with a focus on building innovative and impactful projects together. 
 <br></br>
