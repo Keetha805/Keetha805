@@ -25,7 +25,6 @@ I read my first line of code at 13 but I recently started coding full-time, abou
 There is **4 months** now that im working on web3 and definitvely looking forward to that! I have watched a ton of hours on courses **(32h solidity+hardhat, 16h solidity+brownie, 26h solidity+foundry SpeedRunETH, CrytoZombies, plus other resources)** and making **all the exercises** on them! I've been able to make a couple of projects such as my own NFT Project(www.quirkyhamsters.com) and a simple crypto wallet too(not public but u can find it in my respositories)! Im just willing to learn more and more, and being able to be part of this new technological revolution, meeting great people and learning valuable knowledge in the way. 
 
 I'm also very interested on meeting new coders with who I could team up in a future, share skills, teamwork, and build cool projects together, so I would be grateful to being able to collaborate in projects, hackathons, and many other event with the community! 
-
 <br></br>
 Thanks for reading!
 </p>
